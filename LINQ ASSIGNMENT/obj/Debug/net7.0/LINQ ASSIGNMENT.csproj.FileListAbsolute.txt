@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\bin\Debug\net7.0\LINQ ASSIGNMENT.exe
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\bin\Debug\net7.0\LINQ ASSIGNMENT.deps.json
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\bin\Debug\net7.0\LINQ ASSIGNMENT.runtimeconfig.json
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\bin\Debug\net7.0\LINQ ASSIGNMENT.dll
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\bin\Debug\net7.0\LINQ ASSIGNMENT.pdb
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\LINQ ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\LINQ ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\LINQ ASSIGNMENT.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\LINQ ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\LINQ ASSIGNMENT.dll
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\refint\LINQ ASSIGNMENT.dll
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\LINQ ASSIGNMENT.pdb
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\LINQ ASSIGNMENT.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\My Projects\LINQ ASSIGNMENT\LINQ ASSIGNMENT\obj\Debug\net7.0\ref\LINQ ASSIGNMENT.dll
